@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Razib
+- 👀 I’m interested in C# and Java programming
+- 🌱 I’m currently learning Dot NET Core with MVC
+- 📫 How to reach me >>  iamrazib@gmail.com
